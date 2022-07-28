@@ -1,3 +1,5 @@
+// Q1 return the number of vowels in a string using javascript?
+
 let ans = prompt("enter any name")
 let arr= []
 let vowel = "aeiou"
